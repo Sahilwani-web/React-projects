@@ -1,1 +1,1 @@
-These are some reacr projects
+These are some react projects
